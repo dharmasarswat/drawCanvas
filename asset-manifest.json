@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/drawCanvas/static/css/main.a15f8c71.chunk.css",
+    "main.js": "/drawCanvas/static/js/main.f395ca3f.chunk.js",
+    "main.js.map": "/drawCanvas/static/js/main.f395ca3f.chunk.js.map",
+    "runtime-main.js": "/drawCanvas/static/js/runtime-main.2c863df3.js",
+    "runtime-main.js.map": "/drawCanvas/static/js/runtime-main.2c863df3.js.map",
+    "static/js/2.0acb832f.chunk.js": "/drawCanvas/static/js/2.0acb832f.chunk.js",
+    "static/js/2.0acb832f.chunk.js.map": "/drawCanvas/static/js/2.0acb832f.chunk.js.map",
+    "static/js/3.21a506f8.chunk.js": "/drawCanvas/static/js/3.21a506f8.chunk.js",
+    "static/js/3.21a506f8.chunk.js.map": "/drawCanvas/static/js/3.21a506f8.chunk.js.map",
+    "static/js/4.bcf4e40b.chunk.js": "/drawCanvas/static/js/4.bcf4e40b.chunk.js",
+    "static/js/4.bcf4e40b.chunk.js.map": "/drawCanvas/static/js/4.bcf4e40b.chunk.js.map",
+    "static/js/5.2321baa1.chunk.js": "/drawCanvas/static/js/5.2321baa1.chunk.js",
+    "static/js/5.2321baa1.chunk.js.map": "/drawCanvas/static/js/5.2321baa1.chunk.js.map",
+    "index.html": "/drawCanvas/index.html",
+    "precache-manifest.d791952088a10da5e79815fde8078a3f.js": "/drawCanvas/precache-manifest.d791952088a10da5e79815fde8078a3f.js",
+    "service-worker.js": "/drawCanvas/service-worker.js",
+    "static/css/main.a15f8c71.chunk.css.map": "/drawCanvas/static/css/main.a15f8c71.chunk.css.map",
+    "static/js/3.21a506f8.chunk.js.LICENSE.txt": "/drawCanvas/static/js/3.21a506f8.chunk.js.LICENSE.txt",
+    "static/js/4.bcf4e40b.chunk.js.LICENSE.txt": "/drawCanvas/static/js/4.bcf4e40b.chunk.js.LICENSE.txt",
+    "static/js/5.2321baa1.chunk.js.LICENSE.txt": "/drawCanvas/static/js/5.2321baa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c863df3.js",
+    "static/js/3.21a506f8.chunk.js",
+    "static/css/main.a15f8c71.chunk.css",
+    "static/js/main.f395ca3f.chunk.js"
+  ]
+}
