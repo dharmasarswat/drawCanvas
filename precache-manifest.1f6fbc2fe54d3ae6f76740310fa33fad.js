@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bec578b52c2c3c5f9bbd19611f91bff9",
+    "revision": "5399234378d2f79b1543ee1e23ef3421",
     "url": "/drawCanvas/index.html"
   },
   {
-    "revision": "51afd5f53e6e1684eb10",
+    "revision": "70099f0632c02a2c06eb",
     "url": "/drawCanvas/static/css/main.a15f8c71.chunk.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/drawCanvas/static/js/2.0acb832f.chunk.js"
   },
   {
-    "revision": "bb63a167a861814d9658",
-    "url": "/drawCanvas/static/js/3.21a506f8.chunk.js"
+    "revision": "5ab85b6a5a5fd3e3a116",
+    "url": "/drawCanvas/static/js/3.72a84752.chunk.js"
   },
   {
     "revision": "9cbc51c3f20ff9e60db67bbc6e4216b8",
-    "url": "/drawCanvas/static/js/3.21a506f8.chunk.js.LICENSE.txt"
+    "url": "/drawCanvas/static/js/3.72a84752.chunk.js.LICENSE.txt"
   },
   {
     "revision": "d2d1b42c32c562bb96d9",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/drawCanvas/static/js/5.2321baa1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "51afd5f53e6e1684eb10",
-    "url": "/drawCanvas/static/js/main.cbbaafff.chunk.js"
+    "revision": "70099f0632c02a2c06eb",
+    "url": "/drawCanvas/static/js/main.e98f6d26.chunk.js"
   },
   {
     "revision": "53e6e7dac317192a26bf",
