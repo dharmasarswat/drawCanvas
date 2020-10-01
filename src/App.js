@@ -26,6 +26,11 @@ function App() {
     pdf.save("download.pdf");
   }
 
+  const clear = () => {
+    setOption({...option, clear: true})
+    setOption({...option, clear: false})
+  }
+
   return (
     <div className="App">
       <div className="colorOptionWraper">
@@ -36,7 +41,7 @@ function App() {
         <Canvas {...option} />
       </div>
       <div className="buttons">
-        <button onClick={()=>setOption({...option, clear: true})} className="danger">Clear</button>
+        <button onClick={clear} className="danger">Clear</button>
         <a href=""><button className="success" onClick={handleClick}>Download</button></a>
       </div>
     </div>
