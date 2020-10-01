@@ -1,5 +1,5 @@
 ## Canvas Draw and Download as PDF
-open [https://dharmasarswat.github.io/drawCanvas/](demo) to view
+open [demo](https://dharmasarswat.github.io/drawCanvas/) to view
 
 In the project directory, you can run:
 
