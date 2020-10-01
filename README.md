@@ -1,6 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Canvas Draw and Download as PDF
+open [https://dharmasarswat.github.io/drawCanvas/](demo) to view
 
 In the project directory, you can run:
 
