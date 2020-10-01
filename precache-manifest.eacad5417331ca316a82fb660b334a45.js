@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7162e0c0c498d98846c93684ee05871",
+    "revision": "bec578b52c2c3c5f9bbd19611f91bff9",
     "url": "/drawCanvas/index.html"
   },
   {
-    "revision": "dac8787818db5130f0bc",
+    "revision": "51afd5f53e6e1684eb10",
     "url": "/drawCanvas/static/css/main.a15f8c71.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/drawCanvas/static/js/5.2321baa1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dac8787818db5130f0bc",
-    "url": "/drawCanvas/static/js/main.f395ca3f.chunk.js"
+    "revision": "51afd5f53e6e1684eb10",
+    "url": "/drawCanvas/static/js/main.cbbaafff.chunk.js"
   },
   {
     "revision": "53e6e7dac317192a26bf",
